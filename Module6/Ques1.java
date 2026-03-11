@@ -1,4 +1,4 @@
-class MaximumSubArray {
+class Ques1 {
 public static void main(String[] args){
     int a[]={1,2,3,-2,5};
     int n=a.length;
